@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dev1 update origin new fork 9th July
+=======
+dev1 update origin from dev jingleilee@gmail.com 9th July 1
+>>>>>>> a515c36b61f36619e62a602435bb4e8f06f0775a
